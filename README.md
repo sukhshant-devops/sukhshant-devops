@@ -1,4 +1,11 @@
+![Docker](https://img.shields.io/badge/Docker-blue)
+![AWS](https://img.shields.io/badge/AWS-orange)
+![Linux](https://img.shields.io/badge/Linux-yellow)
+![Nginx](https://img.shields.io/badge/Nginx-green)
+
 # 👋 Hi, I'm Sukhshant Yadav
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhshant-devops&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sukhshant-devops&theme=tokyonight)
 
 🚀 DevOps Enthusiast | AWS | Docker | Linux  
 💻 Building real-world DevOps projects  
@@ -39,7 +46,7 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/sukhshant-devops  
-- LinkedIn: in/sukhshant-yadav-91805421a
+- LinkedIn: https://in/sukhshant-yadav-91805421a
 
 ---
 
