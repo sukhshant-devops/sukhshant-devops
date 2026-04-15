@@ -4,7 +4,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-green)
 
 # 👋 Hi, I'm Sukhshant Yadav
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhshant-devops&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sukhshant-devops&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sukhshant-devops&theme=tokyonight)
 
 🚀 DevOps Enthusiast | AWS | Docker | Linux  
