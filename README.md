@@ -50,6 +50,6 @@
 
 ---
 
-## ⚡ Fun Fact.
+## ⚡ Fun Fact
 
 I love building real DevOps projects and learning by doing 🚀
